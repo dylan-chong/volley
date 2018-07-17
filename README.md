@@ -5,3 +5,12 @@ importantly, faster.
 
 For more information about Volley and how to use it, visit the [Android developer training
 page](https://developer.android.com/training/volley/index.html).
+
+# TODO (remember to remove this)
+
+* reply to feedback
+* resolve merge conflicts
+* rename startNew to start
+* no extending builder
+* delete request.addTo(requestQueue)
+* check TODOs!!
